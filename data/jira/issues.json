@@ -1,9 +1,9 @@
 [
-    {
+    { 
         "id": "CLOUD-102", 
         "title": "Evaluate GCP migration",
         "description": "Investigate migration from AWS to GCP. Focus on cost reduction and performance improvements.",
-        "assignee": "Priya",
+        "assignee": "Priyaa",
         "created": "2023-03-18T09:00:00Z",
         "status": "Completed",
         "priority": "High",
